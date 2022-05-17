@@ -1,0 +1,6 @@
+.idea/
+.idea/*
+*/log.html
+*/output.xml
+*/report.html
+venv/
